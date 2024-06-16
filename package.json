@@ -1,0 +1,35 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Aplikasi Apotek Rest API Beckend\u001b[D\u001b[D\u001b[D\u001b[D\u001b[a\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANDREBEBON/BackendApotek.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js\u001b[D\u001b[\u001b[C\u001b[C\u001b[\u001b[C\u001b[Cjs"
+  ],
+  "author": "Andre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANDREBEBON/BackendApotek/issues"
+  },
+  "homepage": "https://github.com/ANDREBEBON/BackendApotek#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "ip": "^2.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "md5": "^2.3.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
